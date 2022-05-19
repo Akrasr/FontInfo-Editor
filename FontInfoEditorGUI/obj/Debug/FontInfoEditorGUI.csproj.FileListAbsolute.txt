@@ -1,0 +1,10 @@
+C:\Users\userpc\source\repos\FontInfoEditorGUI\FontInfoEditorGUI\bin\Debug\FontInfoEditorGUI.exe.config
+C:\Users\userpc\source\repos\FontInfoEditorGUI\FontInfoEditorGUI\bin\Debug\FontInfoEditorGUI.exe
+C:\Users\userpc\source\repos\FontInfoEditorGUI\FontInfoEditorGUI\bin\Debug\FontInfoEditorGUI.pdb
+C:\Users\userpc\source\repos\FontInfoEditorGUI\FontInfoEditorGUI\obj\Debug\FontInfoEditorGUI.csproj.AssemblyReference.cache
+C:\Users\userpc\source\repos\FontInfoEditorGUI\FontInfoEditorGUI\obj\Debug\FontInfoEditorGUI.Form1.resources
+C:\Users\userpc\source\repos\FontInfoEditorGUI\FontInfoEditorGUI\obj\Debug\FontInfoEditorGUI.Properties.Resources.resources
+C:\Users\userpc\source\repos\FontInfoEditorGUI\FontInfoEditorGUI\obj\Debug\FontInfoEditorGUI.csproj.GenerateResource.cache
+C:\Users\userpc\source\repos\FontInfoEditorGUI\FontInfoEditorGUI\obj\Debug\FontInfoEditorGUI.csproj.CoreCompileInputs.cache
+C:\Users\userpc\source\repos\FontInfoEditorGUI\FontInfoEditorGUI\obj\Debug\FontInfoEditorGUI.exe
+C:\Users\userpc\source\repos\FontInfoEditorGUI\FontInfoEditorGUI\obj\Debug\FontInfoEditorGUI.pdb
